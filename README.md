@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aqeel35102
 - 👀 I’m interested in web application.
-- 🌱 I’m currently working  laravel , php , vue.Js.
+- 🌱 I’m currently working on laravel , php , vue.Js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
