@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">👋 Muhammad Aqeel</h1>
   <h3 align="center">
-    Senior Full-Stack Engineer | Laravel • PHP • React • Vue.js | AI Integrations • n8n Automation & Cloud Deployments | Building Scalable SaaS & Web Applications
+    Senior Full-Stack Engineer | Laravel • PHP • React • Vue.js | AI Integrations • Cloud Deployments | Building Scalable SaaS & Web Applications
   </h3>
 </p>
 
@@ -9,17 +9,15 @@
 
 ## 🚀 About Me
 
-Senior **Full Stack Laravel Developer (5+ Years Experience)** specializing in building **scalable SaaS platforms, ERP systems, and enterprise applications**.
+Senior Full-Stack Engineer with **5+ years of experience** building **enterprise SaaS platforms, ERP systems, AI-powered applications, and real-time distributed systems**.
 
-Experienced in designing:
+Specialized in:
 
-- SaaS & Multi-tenant Platforms  
-- ERP & Business Automation Systems  
-- Real-time Applications (WebSockets, Queues, Events)  
-- AI-powered Systems (RAG, Vector Search, Embeddings)  
-- High-performance APIs & backend architectures  
-
-Currently working with **Laravel 13, Livewire 3, Reverb, Horizon, and AI-integrated systems**.
+- SaaS & Multi-tenant Architectures  
+- AI Integrations (RAG, pgvector, embeddings)  
+- Event-driven & real-time systems  
+- High-scale backend systems  
+- Clean Architecture & SOLID design principles  
 
 ---
 
@@ -45,16 +43,32 @@ Currently working with **Laravel 13, Livewire 3, Reverb, Horizon, and AI-integra
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack (Clickable Icons)
 
 ### ⚙️ Core Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-line.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
+
+  <a href="https://www.php.net">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55"/>
+  </a>
+
+  <a href="https://laravel.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-line.svg" width="55"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+  </a>
+
+  <a href="https://vuejs.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55"/>
+  </a>
+
+  <a href="https://react.dev">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
+  </a>
+
 </p>
 
 ---
@@ -62,9 +76,19 @@ Currently working with **Laravel 13, Livewire 3, Reverb, Horizon, and AI-integra
 ### 🛠 DevOps & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
+
+  <a href="https://git-scm.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+  </a>
+
+  <a href="https://www.docker.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
+  </a>
+
+  <a href="https://www.linux.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
+  </a>
+
 </p>
 
 ---
@@ -72,9 +96,19 @@ Currently working with **Laravel 13, Livewire 3, Reverb, Horizon, and AI-integra
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55"/>
+
+  <a href="https://www.mysql.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+  </a>
+
+  <a href="https://www.postgresql.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
+  </a>
+
+  <a href="https://redis.io">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55"/>
+  </a>
+
 </p>
 
 ---
@@ -82,58 +116,85 @@ Currently working with **Laravel 13, Livewire 3, Reverb, Horizon, and AI-integra
 ### 🧠 AI & Data
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+
+  <a href="https://www.python.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+  </a>
+
 </p>
 
 ---
 
 ## 💼 Professional Experience
 
-### 🚀 Octek — Full Stack Developer (Laravel)
+### 🚀 Octek — Full Stack Engineer (Laravel)
 **May 2023 – Present**
 
-- Built a **multi-vendor B2B marketplace (500+ businesses)**  
-- Designed dynamic pricing engine (Strategy Pattern)  
-- Processed 1000+ daily orders via Redis queues + Horizon  
-- Integrated Stripe, Tamara, Tabby with unified payment system  
-- Built real-time system using Laravel Reverb  
-- Developed AI analytics dashboard (RAG + pgvector + OpenAI)  
+- Built **Multi-Vendor B2B Marketplace (500+ businesses)**  
+  → Dynamic pricing engine (Strategy Pattern)  
+  → 1000+ daily orders (Redis queues + Horizon)  
+  → RBAC system (12+ roles) using Spatie Permissions  
+  → Real-time updates using Laravel Reverb  
+
+- Developed **SaaS Subscription Platform**
+  → Laravel Cashier + custom metered billing  
+  → Stripe webhook orchestration (15+ events)  
+  → MRR / ARR / churn analytics system  
+
+- Built **CRM System**
+  → Kanban pipeline (Livewire)  
+  → Automated workflows (Events + Listeners)  
+  → Full audit logging system  
+
+- Developed **AI Analytics Dashboard**
+  → RAG pipeline with pgvector + OpenAI embeddings  
+  → Semantic KPI search system  
+  → 45s → 3s query optimization  
+
+- Built **Hotel Booking System**
+  → Redis cache locks for inventory  
+  → Dynamic seasonal pricing engine  
+
+- Built **Real-Time Logistics System**
+  → WebSocket tracking via Reverb  
+  → Geo-fencing + Twilio alerts  
+  → PostGIS spatial queries  
 
 ---
 
-### 🏢 Itrid Technologies — Full Stack Developer
+### 🏢 Itrid Technologies — Full Stack Engineer
 **Jul 2022 – Apr 2023**
 
-- Enterprise ERP system (HR, Payroll, Accounts, Inventory)  
-- Multi-tenant SaaS architecture  
-- LMS with quizzes, SCORM, certificates  
-- School management system with real-time notifications  
-- Fleet tracking using PostGIS + GPS  
+- Enterprise ERP (HR, Payroll, Accounts, Inventory)
+- Multi-tenant SaaS platform (DB-per-tenant architecture)
+- LMS system (SCORM, quizzes, certificates, Stripe payouts)
+- School management system (attendance, grading, scheduling)
+- Fleet tracking system (GPS + PostGIS analytics)
 
 ---
 
-### 🏢 Asian Solutions — Full Stack Developer
+### 🏢 Asian Solutions — Full Stack Engineer
 **May 2021 – Jun 2022**
 
-- E-commerce platform with Stripe & PayPal  
-- Hospital management system (200-bed ERP)  
-- Job portal with AI resume parsing  
-- eSign system with secure workflows  
-- POS & inventory management system  
-- Document system with semantic search (pgvector)  
+- E-commerce system (Stripe + PayPal integration)
+- Hospital management system (200-bed ERP)
+- Job portal (AI resume parsing + scoring engine)
+- eSign platform (secure document signing workflow)
+- Inventory & POS system (multi-warehouse)
+- Document system with semantic search (pgvector + AI)
 
 ---
 
 ## 🧠 Key Skills
 
 - Laravel 13, Livewire 3, Reverb, Horizon, Cashier  
-- SaaS & Multi-Tenant Architecture  
+- SaaS Architecture & Multi-Tenant Systems  
 - Event-Driven Systems & Microservices  
-- REST APIs & Clean Architecture (SOLID)  
-- MySQL, PostgreSQL, Redis  
-- AI Integration (RAG, embeddings, vector search)  
-- Payment Systems (Stripe, PayPal, Tamara, Tabby)  
-- Queue Systems, WebSockets, Real-time apps  
+- PostgreSQL, MySQL, Redis, MongoDB  
+- AI Systems (RAG, embeddings, vector search)  
+- Clean Architecture (SOLID, Design Patterns)  
+- Payment Systems (Stripe, PayPal, Tabby, Tamara)  
+- Real-time systems (WebSockets, Queues)  
 
 ---
 
@@ -147,17 +208,13 @@ University of the Punjab — Lahore, Pakistan
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aqeel35102&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqeel35102&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aqeel35102&show_icons=true" />
 </p>
 
 ---
 
 ## ⭐ Closing
 
-> “I build scalable systems that solve real business problems — not just code.”
+> “I build scalable systems that solve real business problems — not just features.”
 
 ---
