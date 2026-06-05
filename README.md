@@ -13,8 +13,6 @@ Senior Full-Stack Engineer with **5+ years of experience** building **enterprise
 
 Specialized in:
 
-Specialized in:
-
 - SaaS & Multi-tenant Architecture (Laravel-based scalable systems)  
 - Enterprise Web Applications (ERP, CRM, LMS, Hospital & School Systems)  
 - E-commerce Platforms (multi-vendor, payment gateways, inventory systems)  
