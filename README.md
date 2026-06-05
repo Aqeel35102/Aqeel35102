@@ -1,24 +1,25 @@
 <p align="center">
   <h1 align="center">👋 Muhammad Aqeel</h1>
-  <h3 align="center">Full Stack Laravel Developer | SaaS • ERP • AI Systems</h3>
+  <h3 align="center">
+    Senior Full-Stack Engineer | Laravel • PHP • React • Vue.js | AI Integrations • n8n Automation & Cloud Deployments | Building Scalable SaaS & Web Applications
+  </h3>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Senior **Full Stack Laravel Developer (5+ Years Experience)** specializing in building **scalable, high-performance, enterprise-grade systems**.
+Senior **Full Stack Laravel Developer (5+ Years Experience)** specializing in building **scalable SaaS platforms, ERP systems, and enterprise applications**.
 
-I design and develop:
+Experienced in designing:
 
-- SaaS Platforms
-- ERP Systems
-- Multi-vendor Marketplaces
-- Healthcare & Education Systems
-- AI-powered Analytics (RAG, pgvector)
-- Real-time & Event-driven Architectures
+- SaaS & Multi-tenant Platforms  
+- ERP & Business Automation Systems  
+- Real-time Applications (WebSockets, Queues, Events)  
+- AI-powered Systems (RAG, Vector Search, Embeddings)  
+- High-performance APIs & backend architectures  
 
-Currently working with **Laravel 13, Livewire 3, Reverb, and AI-integrated systems** using modern backend architecture principles.
+Currently working with **Laravel 13, Livewire 3, Reverb, Horizon, and AI-integrated systems**.
 
 ---
 
@@ -26,7 +27,7 @@ Currently working with **Laravel 13, Livewire 3, Reverb, and AI-integrated syste
 
 <p align="center">
   <a href="https://linkedin.com/in/aqeel-abdulmajeed">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
 
   <a href="https://wa.me/923064187674">
@@ -38,7 +39,7 @@ Currently working with **Laravel 13, Livewire 3, Reverb, and AI-integrated syste
   </a>
 
   <a href="mailto:aqeel.abdulmajeed786@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
   </a>
 </p>
 
@@ -46,15 +47,14 @@ Currently working with **Laravel 13, Livewire 3, Reverb, and AI-integrated syste
 
 ## 🧰 Tech Stack
 
-### ⚙️ Core Expertise
+### ⚙️ Core Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-line.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
 </p>
 
 ---
@@ -62,19 +62,27 @@ Currently working with **Laravel 13, Livewire 3, Reverb, and AI-integrated syste
 ### 🛠 DevOps & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
 </p>
 
 ---
 
-### 🧠 AI & Exploring
+### 🗄️ Databases
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55"/>
+</p>
+
+---
+
+### 🧠 AI & Data
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
 </p>
 
 ---
@@ -84,48 +92,48 @@ Currently working with **Laravel 13, Livewire 3, Reverb, and AI-integrated syste
 ### 🚀 Octek — Full Stack Developer (Laravel)
 **May 2023 – Present**
 
-- Built a **multi-vendor B2B marketplace (500+ businesses)**
-- Developed **dynamic pricing engine (Strategy Pattern)**
-- Processed **1000+ daily orders via Redis queues + Horizon**
-- Integrated **Stripe, Tamara, Tabby with unified payment system**
-- Built **real-time system using Laravel Reverb**
-- Developed **AI Analytics dashboard (RAG + pgvector + OpenAI)**
+- Built a **multi-vendor B2B marketplace (500+ businesses)**  
+- Designed dynamic pricing engine (Strategy Pattern)  
+- Processed 1000+ daily orders via Redis queues + Horizon  
+- Integrated Stripe, Tamara, Tabby with unified payment system  
+- Built real-time system using Laravel Reverb  
+- Developed AI analytics dashboard (RAG + pgvector + OpenAI)  
 
 ---
 
 ### 🏢 Itrid Technologies — Full Stack Developer
 **Jul 2022 – Apr 2023**
 
-- Enterprise ERP (HR, Payroll, Inventory, Accounts)
-- Multi-tenant SaaS architecture
-- LMS with SCORM + quizzes + certificates
-- School Management System (Live notifications + billing)
-- Fleet Tracking System using PostGIS
+- Enterprise ERP system (HR, Payroll, Accounts, Inventory)  
+- Multi-tenant SaaS architecture  
+- LMS with quizzes, SCORM, certificates  
+- School management system with real-time notifications  
+- Fleet tracking using PostGIS + GPS  
 
 ---
 
 ### 🏢 Asian Solutions — Full Stack Developer
 **May 2021 – Jun 2022**
 
-- E-commerce platform (Stripe + PayPal)
-- Hospital Management System (200-bed ERP)
-- Job Portal with AI resume parsing
-- eSign system with secure workflows
-- Inventory & POS system
-- Document system with semantic search (pgvector)
+- E-commerce platform with Stripe & PayPal  
+- Hospital management system (200-bed ERP)  
+- Job portal with AI resume parsing  
+- eSign system with secure workflows  
+- POS & inventory management system  
+- Document system with semantic search (pgvector)  
 
 ---
 
 ## 🧠 Key Skills
 
-- Laravel 13, Livewire 3, Reverb, Horizon, Cashier
-- SaaS Architecture & Multi-Tenant Systems
-- Event-Driven Architecture
-- REST APIs & Microservices
-- PostgreSQL, MySQL, Redis, MongoDB
-- AI Integration (RAG, embeddings, vector search)
-- Clean Architecture (SOLID, Design Patterns)
-- Payment Gateways (Stripe, PayPal, Tabby, Tamara)
+- Laravel 13, Livewire 3, Reverb, Horizon, Cashier  
+- SaaS & Multi-Tenant Architecture  
+- Event-Driven Systems & Microservices  
+- REST APIs & Clean Architecture (SOLID)  
+- MySQL, PostgreSQL, Redis  
+- AI Integration (RAG, embeddings, vector search)  
+- Payment Systems (Stripe, PayPal, Tamara, Tabby)  
+- Queue Systems, WebSockets, Real-time apps  
 
 ---
 
