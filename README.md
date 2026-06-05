@@ -13,11 +13,20 @@ Senior Full-Stack Engineer with **5+ years of experience** building **enterprise
 
 Specialized in:
 
-- SaaS & Multi-tenant Architectures  
-- AI Integrations (RAG, pgvector, embeddings)  
-- Event-driven & real-time systems  
-- High-scale backend systems  
-- Clean Architecture & SOLID design principles  
+Specialized in:
+
+- SaaS & Multi-tenant Architecture (Laravel-based scalable systems)  
+- Enterprise Web Applications (ERP, CRM, LMS, Hospital & School Systems)  
+- E-commerce Platforms (multi-vendor, payment gateways, inventory systems)  
+- AI Integrations (RAG pipelines, pgvector, embeddings, OpenAI APIs)  
+- Real-time Applications (WebSockets, Laravel Reverb, event broadcasting)  
+- High-performance Backend Systems (queues, caching, optimization, Redis)  
+- Document & Workflow Systems (eSign applications, approval flows, audit logs)  
+- API Development & Integration (RESTful APIs, third-party services, microservices)  
+- Frontend Development (React.js, Vue.js, Blade, Livewire, Tailwind CSS)  
+- Clean Architecture & SOLID Principles (scalable and maintainable codebases)  
+- Payment Gateway Integrations (Stripe, PayPal, Tabby, Tamara, ApplePay)  
+- Geospatial & Logistics Systems (PostGIS, GPS tracking, real-time mapping)  
 
 ---
 
