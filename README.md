@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">👋 Muhammad Aqeel</h1>
   <h3 align="center">
-    Senior Full-Stack Engineer | Laravel • Livewire • PHP • React • Vue.js | ERP | SaaS | AI Integrations • Cloud Deployments
+    Senior Full-Stack Engineer | Laravel • Livewire • PHP • React • Vue.js | ERP | SaaS | AI Integrations
   </h3>
 </p>
 
